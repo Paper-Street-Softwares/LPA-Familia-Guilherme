@@ -408,7 +408,7 @@ const content = {
       },
       miniTag: <>QUEM É O TAVARES ASSESSORIA JURÍDICA</>,
       FirstPart: <span> Nossa atuação em</span>,
-      Destaque: <span className="italic font-light"> Direito Condominial</span>,
+      Destaque: <span className="italic font-light"> Direito de Família</span>,
       SecondPart: <span></span>,
       subtitle: <></>,
       paragraph: (
